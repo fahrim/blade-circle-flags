@@ -23,18 +23,18 @@
     },
     "autoload": {
         "psr-4": {
-            "BladeUI\\CircleFlags\\": "src"
+            "Smarteknoloji\\BladeCircleFlags\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests"
+            "Smarteknoloji\\BladeCircleFlags\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "BladeCircleFlagsServiceProvider"
+                "Smarteknoloji\\BladeCircleFlags\\BladeCircleFlagsServiceProvider"
             ]
         }
     },
