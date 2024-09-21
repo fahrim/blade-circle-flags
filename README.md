@@ -47,25 +47,25 @@ php artisan vendor:publish --tag=blade-circle-flags-config
 Icons can be used as self-closing Blade components which will be compiled to SVG icons:
 
 ```blade
-<x-circle-flag-l-zh/>
+<x-circleflag-l-zh/>
 ```
 
 You can also pass classes to your icon components (flags):
 
 ```blade
-<x-circle-flag-l-zh class="w-6 h-6 text-gray-500"/>
+<x-circleflag-l-zh class="w-6 h-6 text-gray-500"/>
 ```
 
 And even use inline styles:
 
 ```blade
-<x-circle-flag-l-zh style="color: #555"/>
+<x-circleflag-l-zh style="color: #555"/>
 ```
 
 The country flag icons can be referenced like this:
 
 ```blade
-<x-circle-flag-c-cn/>
+<x-circleflag-c-cn/>
 ```
 
 ### Raw SVG Icons
