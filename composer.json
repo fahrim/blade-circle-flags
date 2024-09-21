@@ -1,12 +1,15 @@
 {
-    "name": "blade-organization/blade-heroicons",
-    "description": "A package to easily make use of Heroicons in your Laravel Blade views.",
-    "keywords": ["Blade", "Heroicons", "Laravel"],
-    "homepage": "https://github.com/blade-organization/blade-heroicons",
+    "name": "smarteknoloji/blade-circle-flags",
+    "description": "A package to easily make use of Circle Flags in your Laravel Blade views.",
+    "keywords": ["Blade", "Circle Flags", "Laravel"],
+    "homepage": "https://github.com/fahrim/blade-circle-flags",
     "license": "MIT",
     "authors": [
         {
-            "name": "Blade Developer"
+            "name": "Fahri Meral",
+            "email": "fahri.meral@smarteknoloji.com",
+            "homepage": "https://www.fahrimeral.com.tr",
+            "role": "Developer"
         }
     ],
     "require": {
@@ -20,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BladeUI\\Heroicons\\": "src"
+            "BladeUI\\CircleFlags\\": "src"
         }
     },
     "autoload-dev": {
@@ -31,7 +34,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BladeUI\\Heroicons\\BladeHeroiconsServiceProvider"
+                "BladeCircleFlagsServiceProvider"
             ]
         }
     },
