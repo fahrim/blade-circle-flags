@@ -1,6 +1,6 @@
 # Blade Icons Template
 
-<a href="https://github.com/blade-organization/blade-heroicons/actions?query=workflow%3ATests">
+<a href="https://github.com/fahrim/blade-circle-flags/actions?query=workflow%3ATests">
     <img src="https://github.com/blade-ui-kit/blade-heroicons/workflows/Tests/badge.svg" alt="Tests">
 </a>
 <a href="https://packagist.org/packages/smarteknoloji/blade-circle-flags">
