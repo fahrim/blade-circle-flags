@@ -1,4 +1,8 @@
-# Blade Icons Template
+<p align="center">
+    <img src="./cover_image_blade_circle_flags.png" width="1280" title="Social Card Blade Circle Flags">
+</p>
+
+# Blade Circle Flags
 
 <a href="https://github.com/fahrim/blade-circle-flags/actions?query=workflow%3ATests">
     <img src="https://github.com/blade-ui-kit/blade-heroicons/workflows/Tests/badge.svg" alt="Tests">
